@@ -80,11 +80,11 @@ label {
 .btn-send {
 	position: absolute;
 	bottom: 1%;
-	left: 30%;
+	left: 2%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 40%;
+	width: 47%;
 	font-size: 18px;
 	padding: 10px;
 	border-radius: 10px;
@@ -103,12 +103,12 @@ label {
 .btn-clear {
 	position: absolute;
 	bottom: 1%;
-	right: 3%;
+	right: 2%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 20%;
-	font-size: 15px;
+	width: 47%;
+	font-size: 18px;
 	padding: 10px;
 	border-radius: 10px;
 	margin-top: 10px;
